@@ -4176,7 +4176,7 @@
                      String="Arrêt transparent"
                      Description="Si activé, HunterPie ne demandera pas de confirmation à l'arrêt."/>
             <Setting Id="ENABLE_NATIVE_MODULE_STRING"
-                     String="Active HunterPie natif"
+                     String="Active HunterPie Native"
                      Description="Si activé, HunterPie modifiera le jeu pour activer certaines fonctionnalités (ex : compteur de dégâts pendant les investigations).&#xA;&#xA;Si vous n'avez pas les mods [Stracker's Loader] et [Performance Booster and Plugin Extender](CRCBypass), cette option peut faire crash le jeu lors d'une session de jeu prolongée.&#xA;Nécessite de redémarrer le jeu." />
             <Setting Id="SHUTDOWN_ON_GAME_EXIT"
                      String="Fermer à l'arrêt du jeu"
@@ -4544,7 +4544,7 @@
             <Group Id="CONFIGURATION_GROUP_IN_GAME"
                    String="EN JEU" />
             <Group Id="CONFIGURATION_GROUP_NATIVE"
-                   String="NATIF" />
+                   String="NATIVE" />
             <Group Id="CONFIGURATION_GROUP_RENDERING"
                    String="RENDU" />
             <Group Id="CONFIGURATION_GROUP_SCANNING"
